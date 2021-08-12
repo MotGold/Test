@@ -1,0 +1,7 @@
+---
+text: i like pie
+app_user: "wave"
+http_host: "18.234.129.30"
+http_conf: "18.234.129.30"
+http_port: "80"
+disable_default: true

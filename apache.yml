@@ -1,0 +1,5 @@
+---
+- name: call ansible role
+  hosts: nodes
+  roles:
+          - sample-apache
